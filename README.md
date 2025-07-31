@@ -98,15 +98,6 @@ Me chamo Carlos Daniel, tenho 24 anos e sou natural de Oeiras do Pará – Brasi
 />
 <img 
     align="left" 
-    alt="Canva" 
-    title="Canva"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Figma" 
     title="Figma"
     width="30px" 
